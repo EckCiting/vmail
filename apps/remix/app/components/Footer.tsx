@@ -28,7 +28,7 @@ export default function Footer() {
           to="https://huawei.com.tw"
           target="_blank"
           title="Google Earth"
-          className="text-gray-400 hover:text-gray-500  scale-[1.2]">
+          className="text-gray-400 hover:text-gray-500 scale-[1.2]">
           🌍
         </Link>
         <Link
@@ -56,6 +56,13 @@ export default function Footer() {
           target="_blank"
           title="Buy me a coffee">
           <Coffee className="w-6 h-6" />
+        </Link>
+        <Link
+          to="https://alicenetworks.net"
+          target="_blank"
+          title="Alice Networks"
+          className="text-gray-400 hover:text-gray-500">
+          🕸️
         </Link>
       </div>
     </div>
