@@ -62,7 +62,7 @@ export default function Footer() {
           target="_blank"
           title="Alice Networks"
           className="text-gray-400 hover:text-gray-500">
-          🕸️
+          Alice Networks
         </Link>
       </div>
     </div>
